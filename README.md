@@ -1,4 +1,4 @@
-# Lab6
+# Lab6 (variant 19)
 <b>Includes:</b>
 - <i>Lab 6_1</i>
 - <i>Lab 6_2</i>
